@@ -1,0 +1,12 @@
+.box {
+    background: linear-gradient(pink, green);
+    height: 100%;
+    width: 100%;
+    transition: transform 0.05s ease;
+    z-index: 0;
+    position: relative;
+}
+.slider {
+    z-index: 3;
+}
+
